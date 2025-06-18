@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Emmanuel's website",
   "main": "index.js",
+  "homepage": "./",
   "scripts": {
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
